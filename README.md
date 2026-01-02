@@ -1,3 +1,9 @@
+<div align="right">
+
+[🇰🇷 한국어](README.md) | [🇺🇸 English](README_EN.md)
+
+</div>
+
 # 안녕하세요! 👋 함께 성장하는 개발자입니다.
 
 > 새로운 기술을 배우고 적용하는 것을 즐기며, 배움의 과정을 기록하고 공유합니다.
@@ -45,6 +51,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-DHChe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHChe)
   
 </div>
+
 ## 🌟 Featured Projects
 
 ### 📚 개인 블로그
@@ -58,7 +65,7 @@
 
 - 📘 **IT 업무의 기본이 되는 네트워크 구조 원리 교과서**
 
-🔗 [Repository]
+🔗 [Repository](https://github.com/DHChe/my-blog)
 
 ## 📫 Contact
 
@@ -71,6 +78,7 @@
   
   **"오늘 배운 것이 내일의 나를 만든다"**
   
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmidiummin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHChe&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
   
 </div>
+
