@@ -28,13 +28,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 🎯 학습 현황
+
+### ✅ 완료
+- 🐧 **Linux**: 리눅스 기초 및 명령어 학습 완료
+- 🔧 **Git**: 버전 관리 시스템 학습 완료
+- 💻 **GitHub**: 원격 저장소 및 협업 도구 학습 완료
+
+### 📚 학습 예정
+- 🐍 **Python**: 다음주부터 Python 프로그래밍 언어 학습 시작 예정
+
+## 💻 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHChe&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHChe&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-DHChe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHChe)
+  
 </div>
-
 ## 🌟 Featured Projects
 
 ### 📚 개인 블로그
